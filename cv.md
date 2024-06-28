@@ -22,8 +22,20 @@
 
 ## Code examples
 
+```
+var sum = (a, b) => a + b;
+      let operand1 = +prompt(`Введите первое число`);
+      let operand2 = +prompt(`Введите второе число`);
+      let result = sum(operand1, operand2);
+      alert(`Сумма чисел ${result}`);
+```
+
 ## Education
 
+* RS School course Front-end (from June 2024 in process)
+
 ## Languages
+* Russian - native speaker.
+* English - B1 (B2 in process)
 
   
